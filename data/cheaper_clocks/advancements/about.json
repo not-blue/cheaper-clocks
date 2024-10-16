@@ -1,0 +1,17 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:clock"
+    },
+    "title": "Cheaper Clocks",
+    "description": "Use fewer gold ingots to craft clocks.",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "global:notblue",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}
