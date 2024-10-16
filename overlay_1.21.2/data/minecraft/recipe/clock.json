@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " # ",
+    "#X#",
+    " I "
+  ],
+  "key": {
+    "#": "minecraft:gold_nugget",
+    "X": "minecraft:redstone",
+    "I": "minecraft:gold_ingot"
+  },
+  "result": {
+    "id": "minecraft:clock",
+    "count": 1
+  }
+}
